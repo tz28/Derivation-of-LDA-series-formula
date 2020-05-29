@@ -29,5 +29,5 @@
 
 - 《Gibbs sampling for BLDA》，BLDA的gibbs采样推导
 
--《GSDMM推导》，GSDMM的gibbs采样推导，GSDMM实际上和twitter-lda感觉几乎一样。。
+- 《GSDMM推导》，GSDMM的gibbs采样推导，GSDMM实际上和twitter-lda感觉几乎一样。。
 
