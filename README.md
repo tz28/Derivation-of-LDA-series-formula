@@ -25,5 +25,9 @@
 ##### 自己推导部分（如有错误，还请海涵）
 
 
-- 《LDA Gibbs sampling》，自己推导的LDA gibbs采样部分
+- 《LDA Gibbs sampling》，LDA的gibbs采样推导
+
+- 《Gibbs sampling for BLDA》，BLDA的gibbs采样推导
+
+-《GSDMM推导》，GSDMM的gibbs采样推导，GSDMM实际上和twitter-lda感觉几乎一样。。
 
